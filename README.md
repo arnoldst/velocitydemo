@@ -1,3 +1,3 @@
 # velocitydemo
-change for story-6
+change for story-7
 again - bugfix2
